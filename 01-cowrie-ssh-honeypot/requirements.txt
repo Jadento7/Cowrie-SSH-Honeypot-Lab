@@ -1,0 +1,2 @@
+# No Python packages are required for this Cowrie SSH honeypot lab.
+# See REQUIREMENTS.md for Ubuntu, Docker, Cowrie, and network requirements.
