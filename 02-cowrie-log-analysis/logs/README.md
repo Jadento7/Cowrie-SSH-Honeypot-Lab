@@ -5,7 +5,6 @@ This folder is for Cowrie log analysis output files.
 Recommended files to generate during the lab:
 
 ```text
-cowrie-session.log
 login-attempts.txt
 source-connections.txt
 commands.txt
