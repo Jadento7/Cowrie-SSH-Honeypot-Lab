@@ -10,4 +10,4 @@ source-connections.txt
 commands.txt
 ```
 
-For public GitHub repositories, review logs before uploading them. Honeypot logs can contain IP addresses, usernames, passwords attempted by attackers, and other sensitive indicators.
+Review logs before uploading them. Honeypot logs can contain IP addresses, usernames, passwords attempted by attackers, and other sensitive indicators.
